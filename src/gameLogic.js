@@ -152,34 +152,6 @@ function updateHighScore(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// if (gameTimeRemaining > 0){
-// 
-// }
-
 function toggleGameControlButtons(){
 	// check gameTimeRemaining
 
