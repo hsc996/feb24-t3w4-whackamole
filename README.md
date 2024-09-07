@@ -1,6 +1,6 @@
 # feb24-t3w4-whackamole
 
-Whackamole game int he brower using HTML and JS
+Whackamole game in the brower using HTML and JS
 
 - Game menu
   - start game button
@@ -19,3 +19,9 @@ Whackamole game int he brower using HTML and JS
     - increase score on click
     - disappear after a timer
  
+ ## Nice To Have
+
+ - Make the cursor a hammer
+   - Only when the game is running
+- Faster spawns (?)
+- Removing spawns on a timer
